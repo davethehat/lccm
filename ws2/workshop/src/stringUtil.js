@@ -1,4 +1,5 @@
 // Simple utilities for string manipulation
+'use strict';
 
 const capitalize = aString => aString[0].toUpperCase() + aString.slice(1);
 

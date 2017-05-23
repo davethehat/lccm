@@ -37,6 +37,11 @@ function meanOfEmptyArrayIsZero() {
   assert.equal(result, 0);
 }
 
+// Now think of, and code, some more tests. How many tests does
+// it make sense to write? What sort of conditions might we
+// want to test? What do you want to do in the case that the
+// function is passed something that's not an array of numbers?
+
 // Add more test functions here
 // ...
 
@@ -49,8 +54,4 @@ function testMean() {
 
 testMean();
 
-// Now think of, and code, some more tests. How many tests does
-// it make sense to write? What sort of conditions might we
-// want to test? What do you want to do in the case that the
-// function is passed something that's not an array of numbers?
 
